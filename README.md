@@ -1,3 +1,4 @@
+```
 # 🎮 exponentGame
 - A fun interactive integer and string exponent game/calculator.
 - This game combines user input, exception handling/input validation and Unicode-converted ASCII art
@@ -61,7 +62,7 @@ Process finished with exit code 0
 - Python 3.10.0
 - PyCharm IDE
 - Unicode + ASCII Art
-
+```
 
 
 
